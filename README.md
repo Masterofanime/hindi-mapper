@@ -1,5 +1,11 @@
 # Anilist to Satoru.one Mapper
 
+## 🚀 Deploy to Vercel
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Masterofanime/hindi-mapper)
+
+---
+
 This is a simple API that maps Anilist anime IDs to Satoru.one video sources. It works by:
 
 1. Taking an Anilist ID and episode number
@@ -13,13 +19,11 @@ This is a simple API that maps Anilist anime IDs to Satoru.one video sources. It
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/saturo.git
-cd saturo
-
+git clone https://github.com/Masterofanime/hindi-mapper.git
+cd hindi-mapper
+```
 # Install dependencies
 npm install
-```
-
 ## Local Development
 
 ```bash
